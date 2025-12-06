@@ -1,14 +1,14 @@
-# Milou - Retro Game Downloader
+# Milouna-Bear - Retro Game Downloader
 
-A modern Android app for discovering, downloading, and managing retro games. Named after my dog and done with love and lack of knowledge (I'm a ruby dev don't hate me).
+A modern Android app for discovering, downloading, and managing retro games. 
+
+Added additional sources.
 
 ## Download
 
-Check the [releases](https://github.com/santiifm/milou/releases)
-
 ## How It Works
 
-Milou scrapes game data from ROM sites, provides search and filtering, and handles downloads with automatic archive extraction. The app comes prepackaged with some ROMs to quickly get started.
+Milouna-Bear scrapes game data from ROM sites, provides search and filtering, and handles downloads with automatic archive extraction.
 
 ### Core Features
 - **Search & Filter**: Find games by name, console, region, or content type
@@ -73,3 +73,5 @@ app/                    # Main Android application
 ## Disclaimer
 
 This app is for educational purposes only. Users are responsible for ensuring they have the legal right to download any games.
+
+All credit goes to the original author of Milou. I have only added additional sources.
