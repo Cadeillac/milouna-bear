@@ -74,4 +74,4 @@ app/                    # Main Android application
 
 This app is for educational purposes only. Users are responsible for ensuring they have the legal right to download any games.
 
-All credit goes to the original author of Milou. I have only added additional sources.
+All credit goes to [santiifm](https://github.com/santiifm/milou/commits?author=santiifm). I have only added additional sources.
